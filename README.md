@@ -1,6 +1,6 @@
 👋 Hi there, I'm a Junior Developer and a student at DHBW!
 
-🏢 Currently working at @sap
+🏢 Currently working at [@SAP](https://github.com/SAP)
 
 🔭 I’m working on various projects using:
 - Java ☕
