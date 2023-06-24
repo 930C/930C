@@ -1,6 +1,6 @@
 👋 Hi there, I'm a Junior Developer and a student at DHBW!
 
-🏢 Currently enhancing my skills at @sap
+🏢 Currently working at @sap
 
 🔭 I’m working on various projects using:
 - Java ☕
@@ -10,8 +10,6 @@
 💼 I'm passionate about:
 - Transforming supply chain management 📦
 - Driving operational excellence in organizations 🚀
-
-🌱 I’m excited about applying technology to real-world challenges!
 
 <!--
 **930C/930C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
