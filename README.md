@@ -1,5 +1,6 @@
 👋 Hi there, my name is Luca Chmielarski.
-I'm a Junior Developer and student at DHBW!
+
+I'm a Junior Developer at SAP and student at the DHBW!
 
 🏢 Currently working at [@SAP](https://github.com/SAP)
 
